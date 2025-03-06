@@ -1829,7 +1829,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "BGA201C80P15X15_1300X1300X100"
+		(property "Footprint" "custom_dlp:NFBGA201"
 			(at -17.78 -99.06 0)
 			(effects
 				(font
